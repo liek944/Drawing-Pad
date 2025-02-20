@@ -1,5 +1,4 @@
-// script.js
-// Wait for the DOM to be fully loaded before running our code
+
 document.addEventListener('DOMContentLoaded', () => {
     // Get references to our DOM elements
     const container = document.querySelector('.container');

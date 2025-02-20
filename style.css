@@ -33,7 +33,7 @@ body {
 
 /* When hovering over a square, it changes color immediately */
 .grid-square:hover {
-    background-color: #3498db;  /* A pleasant blue color */
+    background-color: #3498db; 
 }
 
 /* Style for our reset button */
